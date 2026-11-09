@@ -1,0 +1,8 @@
+APCNet is released under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This repository includes a modified copy of Ultralytics YOLO, which is also
+licensed under AGPL-3.0. See https://ultralytics.com/license and
+https://www.gnu.org/licenses/agpl-3.0.html for the full license text.
+
+You must comply with AGPL-3.0 when redistributing this software or providing
+it as a network service, including sharing corresponding source code.
